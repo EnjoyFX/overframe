@@ -2,7 +2,7 @@
 ## Tiny frame class for console mode
 
 **Usage:**
-``` 
+```python 
     import overframe
     
     c = textFrame(align='center')
@@ -14,5 +14,6 @@
     
 ```
 **Screenshot of console for this code:**
+
 ![Image for overframe](https://github.com/EnjoyFX/overframe/blob/master/screenshots/overframe.png)
 
